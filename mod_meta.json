@@ -1,0 +1,10 @@
+{
+    "Author": "mmbluey",
+    "Name": "Night Mode",
+    "ModGUID": "mmbluey.nightmode",
+    "ModAssembly": "NightMode.dll",
+    "Entrypoint": "NightMode.Loader/Initialize",
+    "Version": "1.0.0",
+    "MinWinchVersion": "0.6.0",
+    "ApplyPatches": false
+}
